@@ -1,0 +1,5 @@
+palabra = "iphone"
+letra = palabra[0]
+letraUlt = palabra[5]
+print 'primera letra:',letra
+print 'ultima letra:',letraUlt
